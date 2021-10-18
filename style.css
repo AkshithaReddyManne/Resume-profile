@@ -1,0 +1,17 @@
+head{
+background-color:#FFF8DC;
+}
+body
+{
+background-color:#FFF8DC;
+}
+table,th,td
+{
+border:1px solid black;
+}
+
+h2 {
+color:blue;
+text-decoration:underline;
+text-decoration-color:blue;
+}
